@@ -1,0 +1,18 @@
+C:\Users\Davve\source\repos\Lab 3 WF\Lab 3 WF\bin\Debug\net5.0-windows\Lab 3 WF.exe
+C:\Users\Davve\source\repos\Lab 3 WF\Lab 3 WF\bin\Debug\net5.0-windows\Lab 3 WF.deps.json
+C:\Users\Davve\source\repos\Lab 3 WF\Lab 3 WF\bin\Debug\net5.0-windows\Lab 3 WF.runtimeconfig.json
+C:\Users\Davve\source\repos\Lab 3 WF\Lab 3 WF\bin\Debug\net5.0-windows\Lab 3 WF.runtimeconfig.dev.json
+C:\Users\Davve\source\repos\Lab 3 WF\Lab 3 WF\bin\Debug\net5.0-windows\Lab 3 WF.dll
+C:\Users\Davve\source\repos\Lab 3 WF\Lab 3 WF\bin\Debug\net5.0-windows\ref\Lab 3 WF.dll
+C:\Users\Davve\source\repos\Lab 3 WF\Lab 3 WF\bin\Debug\net5.0-windows\Lab 3 WF.pdb
+C:\Users\Davve\source\repos\Lab 3 WF\Lab 3 WF\obj\Debug\net5.0-windows\Lab 3 WF.csprojAssemblyReference.cache
+C:\Users\Davve\source\repos\Lab 3 WF\Lab 3 WF\obj\Debug\net5.0-windows\Lab_3_WF.Form1.resources
+C:\Users\Davve\source\repos\Lab 3 WF\Lab 3 WF\obj\Debug\net5.0-windows\Lab 3 WF.csproj.GenerateResource.cache
+C:\Users\Davve\source\repos\Lab 3 WF\Lab 3 WF\obj\Debug\net5.0-windows\Lab 3 WF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davve\source\repos\Lab 3 WF\Lab 3 WF\obj\Debug\net5.0-windows\Lab 3 WF.AssemblyInfoInputs.cache
+C:\Users\Davve\source\repos\Lab 3 WF\Lab 3 WF\obj\Debug\net5.0-windows\Lab 3 WF.AssemblyInfo.cs
+C:\Users\Davve\source\repos\Lab 3 WF\Lab 3 WF\obj\Debug\net5.0-windows\Lab 3 WF.csproj.CoreCompileInputs.cache
+C:\Users\Davve\source\repos\Lab 3 WF\Lab 3 WF\obj\Debug\net5.0-windows\Lab 3 WF.dll
+C:\Users\Davve\source\repos\Lab 3 WF\Lab 3 WF\obj\Debug\net5.0-windows\ref\Lab 3 WF.dll
+C:\Users\Davve\source\repos\Lab 3 WF\Lab 3 WF\obj\Debug\net5.0-windows\Lab 3 WF.pdb
+C:\Users\Davve\source\repos\Lab 3 WF\Lab 3 WF\obj\Debug\net5.0-windows\Lab 3 WF.genruntimeconfig.cache

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Lab 1 WF.exe" version="1.0.0.0" publicKeyToken="48f5cc24d2a5c94f" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Lab 1 WF" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Lab 1 WF.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Lab 1 WF.exe" size="11232">
+      <assemblyIdentity name="Lab 1 WF" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>jqZhoaC6Pm7DSuW3cYUSAYyD2dWwMPY3OXDD15jT0mA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Lab 1 WF.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-LV242V2\Davve" issuerKeyHash="fb2f70bfc3023c3b8a860279e0ff26b739bc1619" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Pj2Y2sWljz5+omaek8iUVBGmmoDrPgLqtxwAqu8QYQM=</DigestValue></Reference></SignedInfo><SignatureValue>B15F9XZut/Bhm3FaO4zEFZjfg945D/Ljt48eYNgR+0FpjVyeLmZNRtMfr+l9AHnjP1xnYLbbvWQbDUDApgNnz5oS+yYVAQSzOG5Xf+f79cG3cz23XFfmGgg+QIefoW6Vj/FtjEOCHQf4F9PderSJ3H4Q1UHoSXXdh+7Y04ufN6A=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rBohP2YRtu3r8ZzQlrO1gygCAbQFnmypwSFJmn8EssNWFwJgcr7zsuaF4YJZHkgNnZMyspbV/+tC71wN2whZN1ZvnxcU9wsmhKkl6+WruQnIWFXBfhbg1DgBfXYuTCe6IgXFHF9DijLmZzlzxytlje82mmEANVioOiFsO+5bWZk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="036110efaa001cb7ea023eeb809aa6115494c8939e66a27e3e8fa5c5da983d3e" Description="" Url=""><as:assemblyIdentity name="Lab 1 WF.exe" version="1.0.0.0" publicKeyToken="48f5cc24d2a5c94f" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-LV242V2\Davve</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>uKdS5hG9rFViAtGk9Rde3eoQAx3FhQBjmHl8acy67gM=</DigestValue></Reference></SignedInfo><SignatureValue>akus9v8lENlRuIJwimOaTD+sry/QPo5nNm7jp+EsTgqAEyrbyLBQnwuN43c7yl8JlBvBAno9agYM2Vu5FAbN70jqWadh+ulde26oLzJ9ipeFiqSXQ/yysNTjvWMUx66xQBmU9ExwvPKDfnAvFr5MBzMHoYyNUNXvGRG8NSTrf74=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rBohP2YRtu3r8ZzQlrO1gygCAbQFnmypwSFJmn8EssNWFwJgcr7zsuaF4YJZHkgNnZMyspbV/+tC71wN2whZN1ZvnxcU9wsmhKkl6+WruQnIWFXBfhbg1DgBfXYuTCe6IgXFHF9DijLmZzlzxytlje82mmEANVioOiFsO+5bWZk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQesTaPPcr3IpFGe093Cl6FTANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEwAVgAyADQAMgBWADIAXABEAGEAdgB2AGUwHhcNMjEwMzI1MTQzMzIyWhcNMjIwMzI1MjAzMzIyWjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEwAVgAyADQAMgBWADIAXABEAGEAdgB2AGUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKwaIT9mEbbt6/Gc0JaztYMoAgG0BZ5sqcEhSZp/BLLDVhcCYHK+87LmheGCWR5IDZ2TMrKW1f/rQu9cDdsIWTdWb58XFPcLJoSpJevlq7kJyFhVwX4W4NQ4AX12LkwnuiIFxRxfQ4oy5mc5c8crZY3vNpphADVYqDohbDvuW1mZAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAS2GFG0nF889nEg/B+sHifo/o+wpJpos7/LT3XpZvHQSiFF9TrKCo8SsVWV0CZ7lBKjW2wbypavLltkcI7uEAPbN31k1KXB6JlExTvrBzDXAspFgoWrEAg/u5QUJbAdlkfq+vzBE7uVxMFLVOT6FgOOBdjwwCvgnQ4W6k4ouZ5/k=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
